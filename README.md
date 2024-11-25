@@ -2,7 +2,7 @@
 <h3 align="center">Master's in Software Engineering Systems from Northeastern University, Boston, MA </h3>
 <h3 align="center">Software Engineer | Full Stack Developer | Generative AI Enthusiast | AWS </h3>
 
-- 🔭 I’m currently volunteering as an AI Content Developer and Chatbot Specialist at Bear Brown and Company, creating interactive AI-driven chatbots and educational content.
+- 🔭 I’m currently volunteering as an Software Engineer at Bear Brown and Company, creating interactive AI-driven chatbots and educational content.
 - 🌱 I’m expanding my skills in **CI/CD pipelines**, **cloud computing**, and **automated testing** to build robust, scalable solutions.
 - 📫 How to reach me: You can drop me a message on my [LinkedIn](https://www.linkedin.com/in/pravallikapilla/) or email me at kusuma.pravallika2k@gmail.com.
 
